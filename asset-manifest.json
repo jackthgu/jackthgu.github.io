@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jackthgu/static/css/main.2cce8147.chunk.css",
+    "main.js": "/jackthgu/static/js/main.819ce262.chunk.js",
+    "main.js.map": "/jackthgu/static/js/main.819ce262.chunk.js.map",
+    "runtime~main.js": "/jackthgu/static/js/runtime~main.62867174.js",
+    "runtime~main.js.map": "/jackthgu/static/js/runtime~main.62867174.js.map",
+    "static/js/2.fd03bb97.chunk.js": "/jackthgu/static/js/2.fd03bb97.chunk.js",
+    "static/js/2.fd03bb97.chunk.js.map": "/jackthgu/static/js/2.fd03bb97.chunk.js.map",
+    "index.html": "/jackthgu/index.html",
+    "precache-manifest.04e28fad08bb732969cc0aa8ef2bebf0.js": "/jackthgu/precache-manifest.04e28fad08bb732969cc0aa8ef2bebf0.js",
+    "service-worker.js": "/jackthgu/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/jackthgu/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/jackthgu/static/media/logo.5d5d9eef.svg"
+  }
+}
